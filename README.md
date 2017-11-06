@@ -1,8 +1,17 @@
 # Crystal-Game
 
+UCI Full Stack Web Development 24 week Boot Camp 9/25/17 to 4/7/18
 
-Our first assignment using jQuery. After the psychic game and Game of Thrones Hangman, this was a relatively easy assignemnt, finishing this on my first night.  I did not style this game since I wanted to focus my attention on the harder assignment, which was much more difficult.
+Homework #4 - Easier Assignment
 
+Assigned: 10/21/17
+
+Due: 10/28/17
+
+
+Our first assignment using jQuery. After the psychic game and Game of Thrones Hangman, this was a relatively easy assignemnt, finishing this on my first night.  I did not style this game since I wanted to focus my attention on the harder assignment, which was much more difficult. I will come back with a version two which will be styled, with possible new features.
+
+At this point, I am feeling much more comfortable with JS and jQuery. It is now a matter of learning all the capabilities of of the language and putting it to use.
 
 
 
